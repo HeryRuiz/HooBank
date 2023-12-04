@@ -8,7 +8,7 @@ We prioritize your convenience, offering a range of services that empower you to
 
 </p>
 
-👉 Live Demo: <a href='https://goev-five.vercel.app/'>HooBank Demo</a>
+👉 Live Demo: <a href='https://hoobank-hazel-psi.vercel.app'>HooBank Demo</a>
 
 <h3>Built using:</h3>
 
