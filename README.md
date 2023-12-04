@@ -1,4 +1,4 @@
-<div align='center'><img style="width:20%" src='https://cdn.discordapp.com/attachments/1175025075448205375/1181033546098425876/image1.png?ex=657f9633&is=656d2133&hm=0836184cc451ac92db1a332b6b104bcca51a58f05e78b171d79b1273fa791372&'/></div>
+<div align='center'><img style="width:20%" src='https://cdn.discordapp.com/attachments/1175025075448205375/1181038024054808616/image1.png?ex=657f9a5f&is=656d255f&hm=a06ad16651a8a2da143afa63b5fdba45e744ff150f0f7d2849092896ecd93ae3&'/></div>
 
 <h2>About the project</h2>
 
