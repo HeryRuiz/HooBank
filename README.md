@@ -2,11 +2,12 @@
 
 <h2>About the project</h2>
 
-<p><b>HooBank</b> your premier destination for modern and secure online banking. HooBank redefines the banking experience, seamlessly merging cutting-edge technology with user-friendly features to provide you with a financial platform that's both innovative and reliable. <br/>
-
-We prioritize your convenience, offering a range of services that empower you to manage your finances effortlessly. Our intuitive and user-friendly interface ensures a smooth navigation experience, whether you're checking your balance, transferring funds, or exploring our diverse array of financial products.
-
-</p>
+<p>
+        <b>HooBank</b> is a featured project in my portfolio, showcasing my expertise in React, Tailwind CSS, and modern web development. This project represents a conceptual online banking platform, redefining the digital banking experience through cutting-edge technology and user-friendly features.
+      </p>
+      <p>
+        Explore the seamless integration of React and the sleek design of Tailwind CSS in this project, as it brings forth a modern and secure online banking experience. HooBank is a testament to my commitment to creating user-centric and technically advanced web solutions.
+      </p>
 
 👉 Live Demo: <a href='https://hoobank-hazel-psi.vercel.app'>HooBank Demo</a>
 
